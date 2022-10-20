@@ -13,3 +13,5 @@
  #### Code Journal:
  I found MDN really helpful for these achievments, i'm realizing how important it is to nail the search terms.
  
+ GH Pages: https://munchy11.github.io/cpnt262-achiev/
+ 
